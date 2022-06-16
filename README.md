@@ -1,3 +1,4 @@
+## Les projets de ce répertoire ont été réalisées dans le cadre du cours "Spring & Hibernate for Begginers" de Chad Darby (luv2code.com). The projects from this repo were realised as part of Chard Darby's "Spring & Hibernate for Begginers" class (luv2code.com).  
 # Première découverte de Spring  
 Ce répertoire contient les premiers projets que j'ai réalisés dans le cadre de mon initiation à Spring et Hibernate.  
 Il contient divers programmes permettant de tester des fonctionnalités concernant les sections suivantes :  
